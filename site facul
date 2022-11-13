@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="Pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Site Faculdade</title>
+</head>
+
+<body>
+ 
+    <header class="cabecalho">
+    <nav class="cabecalho-menu">
+      <a class="cabecalho-menu-item">INICIO</a>
+      <a class="cabecalho-menu-item">TERNO</a>
+      <a class="cabecalho-menu-item">CAMISAS</a>
+      <a class="cabecalho-menu-item">GRAVATAS</a>
+      <a class="cabecalho-menu-item">ACESSÓRIOS</a>
+      <a class="cabecalho-menu-item">NOVIDADES</a>
+      <a class="cabecalho-menu-item">CONTATO</a>
+</nav>
+    </header>
+
+    <main class="conteudo">
+<section class="conteudo-principal">
+<div class="conteudo-principal-escrito">
+    <h1 class="conteudo-principal-escrito-titulo">RODRIFIELD</h1>
+    <h2 class="conteudo-principal-escrito-titulo-sub">Seu Estilo Você Encontra Aqui!</h2>
+</div>
+<img class="conteudo-principal-imagem" src="jeremy-beadle-qnU-UR0o5X8-unsplash.jpg " alt="imagem de um homem arrumando seu terno">
+</section>
+<section class="conteudo-secundario">
+<h3 class="conteudo-secundario-titulo"> Os 3 pilares da marca:</h3>
+<p class="conteudo-secundario-paragrafo">1ºMissão: Garantir a <strong>qualidade</strong> dos produtos. </p>
+<p class="conteudo-secundario-paragrafo">2ºVisão: Manter a <strong>referência</strong> mundial.</p>
+<p class="conteudo-secundario-paragrafo">3ºValores: <strong>Ética, Respeito e Inovação.</strong></p>
+<section>
+
+</section>
+        <footer class="rodape">
+<h4 class="rodape2">Wagner Rodrigues</h4>
+<h5 class="rodape 3">3022201803</h5>
+            </footer>
+        </main>
+    </header>
+</body>
+</html>
